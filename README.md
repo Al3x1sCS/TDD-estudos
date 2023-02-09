@@ -5,7 +5,6 @@ Este repositório é destinado aos estudos sobre Test Driven Development (TDD). 
 
 ## O que é TDD?
 - [Definição do que é TDD e sua importância no desenvolvimento de software.](#o-que-é-tdd-afinal)
-- Definição do que é TDD e sua importância no desenvolvimento de software.
 
 ## Por que usar TDD?
 - Discussão sobre os benefícios do uso do TDD na criação de projetos de software.
@@ -46,4 +45,7 @@ A ideia por trás do TDD é que, ao escrever testes antes do código, você pode
 
 É uma boa ideia praticar o TDD em seus projetos pessoais ou em projetos de estudo. E também estudar sobre frameworks de teste como XCTest, JUnit, NUnit, entre outros.
 
+# Links para aprender mais sobre TDD
+
+- [Test-Driven Development - Martin Fowler](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
 
