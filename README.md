@@ -3,7 +3,7 @@
 
 Este repositório é destinado aos estudos sobre Test Driven Development (TDD). Aqui serão abordados temas como:
 
-## O que é TDD?
+# O que é TDD?
 - [Definição do que é TDD e sua importância no desenvolvimento de software.](#o-que-é-tdd)
 - Definição do que é TDD e sua importância no desenvolvimento de software.
 
@@ -38,7 +38,7 @@ Este repositório é destinado aos estudos sobre Test Driven Development (TDD). 
 
 Este repositório é uma ferramenta para quem deseja aprender sobre TDD e como aplicá-lo na prática. Fique à vontade para contribuir com seus conhecimentos e aprender juntos.
 
-# O que é TDD?
+## O que é TDD?
 
 Test-Driven Development (TDD) é uma metodologia de desenvolvimento de software que se concentra na escrita de testes antes de escrever o código propriamente dito. Em outras palavras, você escreve um teste para a funcionalidade que deseja implementar e só então implementa o código para passar neste teste.
 
