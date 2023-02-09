@@ -48,4 +48,5 @@ A ideia por trás do TDD é que, ao escrever testes antes do código, você pode
 # Links para aprender mais sobre TDD
 
 - [Test-Driven Development - Martin Fowler](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
+- [The basics of Test-Driven Development - Agile Alliance](https://www.agilealliance.org/glossary/tdd/)
 
