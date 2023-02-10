@@ -9,7 +9,7 @@ Este repositório é destinado aos estudos sobre Test Driven Development (TDD). 
 ## Por que usar TDD?
 - [Discussão sobre os benefícios do uso do TDD.](#por-que-usar)
 
-## O que é Red, Green, Refactor?
+## Red, Green, Refactor!
 - [Red-green-refactor](#o-que-e-red-green-refactor)
 
 ## Como funciona o TDD?
