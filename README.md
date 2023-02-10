@@ -81,13 +81,16 @@ Referências:
 
 Red-green-refactor é uma metodologia de TDD que se concentra em criar testes antes de escrever o código. A metodologia é dividida em três etapas:
 
-- 1. Vermelho (Red) - Primeiro, você escreve um teste para a funcionalidade que você deseja implementar. Quando você executa o teste, ele falhará, pois você ainda não implementou a funcionalidade.
+1. Vermelho (Red) - Primeiro, você escreve um teste para a funcionalidade que você deseja implementar. Quando você executa o teste, ele falhará, pois você ainda não implementou a funcionalidade.
 
-- 2. Verde (Green) - Na segunda etapa, você implementa o código o mais simples possível para passar no teste que você escreveu na etapa anterior.
+2. Verde (Green) - Na segunda etapa, você implementa o código o mais simples possível para passar no teste que você escreveu na etapa anterior.
 
-- 3. Refatorar (Refactor) - Na última etapa, você refatora o seu código, melhorando a sua estrutura e qualidade, sem mudar a funcionalidade.
+3. Refatorar (Refactor) - Na última etapa, você refatora o seu código, melhorando a sua estrutura e qualidade, sem mudar a funcionalidade.
 
 A metodologia Red-green-refactor é útil para garantir que você esteja construindo software de qualidade e testável, sem se preocupar com a implementação excessivamente complexa desde o início.
+
+Referências:
+- [Red, Green, Refactor!](https://medium.com/@tunkhine126/red-green-refactor-42b5b643b506)
 
 # Links para aprender mais sobre TDD
 
