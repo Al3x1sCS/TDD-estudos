@@ -10,7 +10,7 @@ Este repositório é destinado aos estudos sobre Test Driven Development (TDD). 
 - [Discussão sobre os benefícios do uso do TDD.](#por-que-usar)
 
 ## Problemática
-- [Video que explica o problema do TDD](https://github.com/Al3x1sCS/TDD-estudos/blob/main/README.md#como-n%C3%A3o-usar)
+- [Video que explica o problema com o TDD](https://github.com/Al3x1sCS/TDD-estudos/blob/main/README.md#como-n%C3%A3o-usar)
 
 ## Red, Green, Refactor!
 - [Red-green-refactor](https://github.com/Al3x1sCS/TDD-estudos/blob/main/README.md#o-que-%C3%A9-red-green-refactor)
