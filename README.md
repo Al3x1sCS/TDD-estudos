@@ -46,8 +46,8 @@ A ideia por trás do TDD é que, ao escrever testes antes do código, você pode
 É uma boa ideia praticar o TDD em seus projetos pessoais ou em projetos de estudo. E também estudar sobre frameworks de teste como XCTest, JUnit, NUnit, entre outros.
 
 Referências:
-[O que é TDD?](https://dzone.com/articles/what-is-test-driven-development-tdd)
-[Is TDD Dead?](https://martinfowler.com/articles/is-tdd-dead/)
+- [O que é TDD?](https://dzone.com/articles/what-is-test-driven-development-tdd)
+- [Is TDD Dead?](https://martinfowler.com/articles/is-tdd-dead/)
 
 # Por que usar?
 
@@ -62,7 +62,7 @@ Além disso, o TDD também ajuda a melhorar a colaboração entre os membros da 
 Em resumo, o TDD é uma metodologia de desenvolvimento de software altamente recomendada que pode ajudar a garantir a qualidade do código, torná-lo mais fácil de manter e atualizar, e melhorar a colaboração entre os membros da equipe. Ao adotar o TDD em seus projetos de software, você pode ter mais confiança no código que está escrevendo e pode garantir que sua equipe trabalhe de forma mais eficiente e colaborativa.
 
 Referências:
-[Why Test-Driven Development (TDD)](https://marsner.com/blog/why-test-driven-development-tdd/)
+- [Why Test-Driven Development (TDD)](https://marsner.com/blog/why-test-driven-development-tdd/)
 
 # Links para aprender mais sobre TDD
 
