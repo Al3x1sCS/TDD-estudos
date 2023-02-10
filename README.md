@@ -9,7 +9,7 @@ Este repositório é destinado aos estudos sobre Test Driven Development (TDD). 
 ## Por que usar TDD?
 - [Discussão sobre os benefícios do uso do TDD.](#por-que-usar)
 
-## Como não usar!
+## Problemática
 - [Video que explica o problema do TDD](https://github.com/Al3x1sCS/TDD-estudos/blob/main/README.md#como-n%C3%A3o-usar)
 
 ## Red, Green, Refactor!
