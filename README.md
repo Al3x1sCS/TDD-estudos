@@ -7,7 +7,7 @@ Este repositório é destinado aos estudos sobre Test Driven Development (TDD). 
 - [Definição do que é TDD e sua importância no desenvolvimento de software.](#o-que-é-tdd-afinal)
 
 ## Por que usar TDD?
-- Discussão sobre os benefícios do uso do TDD na criação de projetos de software.
+- [Discussão sobre os benefícios do uso do TDD na criação de projetos de software.] (#Por-que-usar)
 
 ## Como funciona o TDD?
 - Análise do funcionamento do TDD, incluindo seus passos básicos e sua aplicação na prática.
@@ -44,6 +44,18 @@ Test-Driven Development (TDD) é uma metodologia de desenvolvimento de software 
 A ideia por trás do TDD é que, ao escrever testes antes do código, você pode ter certeza de que o seu código funciona como esperado, sem bugs ou erros. Além disso, você também pode ter uma visão mais clara da funcionalidade que deseja implementar, o que pode ajudar a evitar problemas de design e a garantir uma implementação mais eficiente e clara.
 
 É uma boa ideia praticar o TDD em seus projetos pessoais ou em projetos de estudo. E também estudar sobre frameworks de teste como XCTest, JUnit, NUnit, entre outros.
+
+# Por que usar?
+
+Test-Driven Development (TDD) é uma metodologia de desenvolvimento de software que se concentra na escrita de testes antes de escrever o código propriamente dito. Esta abordagem tem sido amplamente adotada pela comunidade de desenvolvimento de software, e há vários argumentos que justificam sua utilização.
+
+Uma das vantagens mais importantes do TDD é que ele ajuda a garantir a qualidade do código. Ao escrever testes antes do código, os desenvolvedores podem ter certeza de que o seu código funciona como esperado, sem bugs ou erros. Além disso, ao escrever testes primeiro, os desenvolvedores também são obrigados a pensar na funcionalidade que desejam implementar antes de começar a codificar. Isso pode ajudar a evitar problemas de design e a garantir uma implementação mais eficiente e clara.
+
+Outra vantagem do TDD é que ele ajuda a tornar o código mais fácil de manter e atualizar. Ao ter testes automatizados para cada pequena parte do código, os desenvolvedores podem ser mais confiantes ao fazer alterações no futuro, pois sabem que seus testes serão executados automaticamente e avisarão se algo estiver quebrado.
+
+Além disso, o TDD também ajuda a melhorar a colaboração entre os membros da equipe. Ao escrever testes primeiro, todos os envolvidos na equipe têm uma visão clara da funcionalidade que está sendo implementada, o que pode ajudar a evitar mal-entendidos e garantir que todos trabalhem na mesma direção.
+
+Em resumo, o TDD é uma metodologia de desenvolvimento de software altamente recomendada que pode ajudar a garantir a qualidade do código, torná-lo mais fácil de manter e atualizar, e melhorar a colaboração entre os membros da equipe. Ao adotar o TDD em seus projetos de software, você pode ter mais confiança no código que está escrevendo e pode garantir que sua equipe trabalhe de forma mais eficiente e colaborativa.
 
 # Links para aprender mais sobre TDD
 
