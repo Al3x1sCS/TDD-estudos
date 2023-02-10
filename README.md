@@ -64,9 +64,33 @@ Em resumo, o TDD é uma metodologia de desenvolvimento de software altamente rec
 Referências:
 - [Why Test-Driven Development (TDD)](https://marsner.com/blog/why-test-driven-development-tdd/)
 
+# Como não usar!
+
+Ian Cooper, explica os problemas que ele notou com a forma como as pessoas estão praticando o TDD (Desenvolvimento Guiado por Testes) e por que houve crescente resistência ao TDD. Ele vem praticando TDD desde 2004 e escreveu extensas suites de testes. Ao longo do tempo, ele notou que algumas das suites de teste eram muito difíceis e caras de manter. Ele notou que havia muita resistência ao TDD em 2005-2006, com muitos desenvolvedores dizendo que não queriam fazê-lo e que era uma ideia louca. Alguns desenvolvedores inteligentes que ele respeitava eram resistentes ao TDD, apesar de seus esforços para explicar seus benefícios.
+
+O principal problema com o TDD, de acordo com Cooper, é que se tornou uma "guerra religiosa". As pessoas se tornaram atached a certas práticas do TDD e não ouvirão outras ideias. Isso resultou em uma falta de inovação e progresso no TDD.
+
+Cooper sugere que a maneira de resolver esse problema é reiniciar a prática do TDD e retornar às suas raízes. Ele sugere olhar para ideias como red-green-refactor, refatoração de código green, etc. e entender como essas ideias devem ser aplicadas. Ele também sugere olhar para onde foram feitos erros na prática do TDD que levaram a formas adversas de fazer TDD.
+
+Ele também fala sobre a importância de se concentrar nas seções iniciais do TDD e como equipes podem trabalhar juntas para passar pelas seções posteriores. Ele enfatiza que o TDD não é apenas um conjunto de regras a seguir, mas uma forma de pensar sobre o desenvolvimento de software. O objetivo deve ser escrever um código limpo e mantível que seja fácil de testar.
+
+Referências:
+- [TDD, Where Did It All Go Wrong (Ian Cooper)](https://www.youtube.com/watch?v=EZ05e7EMOLM)
+
+# O que é red-green-refactor?
+
+Red-green-refactor é uma metodologia de TDD que se concentra em criar testes antes de escrever o código. A metodologia é dividida em três etapas:
+
+- 1. Vermelho (Red) - Primeiro, você escreve um teste para a funcionalidade que você deseja implementar. Quando você executa o teste, ele falhará, pois você ainda não implementou a funcionalidade.
+
+- 2. Verde (Green) - Na segunda etapa, você implementa o código o mais simples possível para passar no teste que você escreveu na etapa anterior.
+
+- 3. Refatorar (Refactor) - Na última etapa, você refatora o seu código, melhorando a sua estrutura e qualidade, sem mudar a funcionalidade.
+
+A metodologia Red-green-refactor é útil para garantir que você esteja construindo software de qualidade e testável, sem se preocupar com a implementação excessivamente complexa desde o início.
+
 # Links para aprender mais sobre TDD
 
 - [Test-Driven Development - Martin Fowler](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
 - [The basics of Test-Driven Development - Agile Alliance](https://www.agilealliance.org/glossary/tdd/)
-- [TDD, Where Did It All Go Wrong (Ian Cooper)](https://www.youtube.com/watch?v=EZ05e7EMOLM)
 
