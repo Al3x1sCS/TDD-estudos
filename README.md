@@ -4,10 +4,13 @@
 Este repositório é destinado aos estudos sobre Test Driven Development (TDD). Aqui serão abordados temas como:
 
 ## O que é TDD?
-- [Definição do que é TDD e sua importância no desenvolvimento de software.](#o-que-é-tdd-afinal)
+- [Definição do que é TDD.](#o-que-é-tdd-afinal)
 
 ## Por que usar TDD?
-- [Discussão sobre os benefícios do uso do TDD na criação de projetos de software.](#por-que-usar)
+- [Discussão sobre os benefícios do uso do TDD.](#por-que-usar)
+
+## O que é Red, Green, Refactor?
+- [Red-green-refactor](o-que-e-red-green-refactor)
 
 ## Como funciona o TDD?
 - Análise do funcionamento do TDD, incluindo seus passos básicos e sua aplicação na prática.
