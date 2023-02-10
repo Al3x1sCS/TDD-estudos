@@ -68,7 +68,7 @@ Referências:
 
 Ian Cooper, explica os problemas que ele notou com a forma como as pessoas estão praticando o TDD (Desenvolvimento Guiado por Testes) e por que houve crescente resistência ao TDD. Ele vem praticando TDD desde 2004 e escreveu extensas suites de testes. Ao longo do tempo, ele notou que algumas das suites de teste eram muito difíceis e caras de manter. Ele notou que havia muita resistência ao TDD em 2005-2006, com muitos desenvolvedores dizendo que não queriam fazê-lo e que era uma ideia louca. Alguns desenvolvedores inteligentes que ele respeitava eram resistentes ao TDD, apesar de seus esforços para explicar seus benefícios.
 
-O principal problema com o TDD, de acordo com Cooper, é que se tornou uma "guerra religiosa". As pessoas se tornaram atached a certas práticas do TDD e não ouvirão outras ideias. Isso resultou em uma falta de inovação e progresso no TDD.
+O principal problema com o TDD, de acordo com Cooper, é que se tornou uma "guerra religiosa". As pessoas se tornaram apegadas (atached) a certas práticas do TDD e não ouvirão outras ideias. Isso resultou em uma falta de inovação e progresso no TDD.
 
 Cooper sugere que a maneira de resolver esse problema é reiniciar a prática do TDD e retornar às suas raízes. Ele sugere olhar para ideias como red-green-refactor, refatoração de código green, etc. e entender como essas ideias devem ser aplicadas. Ele também sugere olhar para onde foram feitos erros na prática do TDD que levaram a formas adversas de fazer TDD.
 
